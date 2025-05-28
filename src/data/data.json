@@ -1,0 +1,72 @@
+[
+   {
+      "id": 1,
+      "image": "./images/damas.png",
+      "name": "Damas",
+      "price": "93 156 000"
+      
+   },
+   {
+      "id": 2,
+      "image": "./images/Cobalt2.png",
+      "name": "Cobalt",
+      "price": "146 455 000"
+      
+   },
+   {
+      "id": 3,
+      "image": "./images/lacetti.png",
+      "name": "Lacetti",
+      "price": "168 342 000"
+      
+   },
+   {
+      "id": 4,
+      "image": "./images/onix.png",
+      "name": "Onix",
+      "price": "161 900 000"
+      
+   },
+   {
+      "id": 5,
+      "image": "./images/malibuXL.webp",
+      "name": "Malibu XL",
+      "price": "375 000 640"
+      
+   },
+   {
+      "id": 6,
+      "image": "./images/tracker2.png",
+      "name": "Tracker",
+      "price": "215 951 360"
+      
+   },
+   {
+      "id": 7,
+      "image": "./images/captiva5.png",
+      "name": "Captiva",
+      "price": "284 900 000"
+      
+   },
+   {
+      "id": 8,
+      "image": "./images/Traverse.webp",
+      "name": "Traverse",
+      "price": "657 730 560"
+      
+   },
+   {
+      "id": 9,
+      "image": "./images/Equinox.png",
+      "name": "Equinox",
+      "price": "383 450 560"
+      
+   },
+   {
+      "id": 10,
+      "image": "./images/Tahoe.webp",
+      "name": "Tahoe",
+      "price": "1 109 274 880"
+      
+   }
+]

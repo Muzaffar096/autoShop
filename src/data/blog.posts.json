@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "./images/blog-posts/uzafi.jpg",
+    "name": "O'zbekiston Respublikasi investitsiya salohiyati portali"
+  },
+  {
+    "id": 2,
+    "image": "./images/blog-posts/hukumati.jpg",
+    "name": "O'zbekiston Respublikasi Hukumati Portali"
+  },
+  {
+    "id": 3,
+    "image": "./images/blog-posts/portal.png",
+    "name": "O'zbekiston Respublikasi Hukumati Portali Davlat aktivlarini boshqarish agentligi"
+  },
+  {
+    "id": 4,
+    "image": "./images/blog-posts/Soliq.png",
+    "name": "O'zbekiston Respublikasi Davlat Soliq qo`mitasi"
+  },
+  {
+    "id": 5,
+    "image": "./images/blog-posts/gerb.png",
+    "name": "O'zbekiston Respublikasi Prezidenti Virtual qabulxonasi"
+  },
+  {
+    "id": 6,
+    "image": "./images/blog-posts/Kiberxavfsizlik.png",
+    "name": "Davlat aktivlarini boshqarish agentligi Kiberxavfsizlik markazi"
+  },
+  {
+    "id": 7,
+    "image": "./images/blog-posts/mitc.png",
+    "name": "Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi"
+  },
+  {
+    "id": 8,
+    "image": "./images/blog-posts/lexuz.png",
+    "name": "O‘zbekiston Respublikasi Qonun hujjatlari ma’lumotlari Milliy bazasi"
+  }
+]
