@@ -77,7 +77,7 @@ const Footer = () => {
         </div>
       </div>
       <Divider variant="fullWidth" />
-      <div  className="bg-[#131619]"><p className="text-white text-[14px] flex items-center justify-center py-2">
+      <div><p className="text-white text-[14px] flex items-center justify-center py-2">
         © 1996 - 2025 UzAuto Motors AJ
       </p></div>
     </Container>

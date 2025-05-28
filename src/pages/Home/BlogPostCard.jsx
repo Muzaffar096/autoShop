@@ -1,7 +1,7 @@
-import arrow from "../../../public/images/blog-posts/arrow-right.png";
+
 
 const BlogPostCard = ({ product }) => {
-  const { id, image, name, description, postedAt } = product;
+  const { id, image, name } = product;
   return (
     <div className="card w-72 " key={id}>
       <img className=" m-auto" src={image} alt="Logo" />
