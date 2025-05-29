@@ -7,12 +7,12 @@ import HeaderLinks from "./HeaderLinks";
 const Header = () => {
  
   return (
-    <div className="mt-[24px]  md:left-0  md:right-0 md:bg-slate-50 md:z-50  ">
+    <div className="mt-[24px] ">
       <Container>
-        <div className="flex sm:justify-start md:gap-4  items-center">
-          <div className="cursor-pointer md:ml-4">
+        <div className="flex sm:justify-start  items-center">
+          <div className="cursor-pointer">
             <NavLink to="/">
-            <img className="" src={Logo} alt="Logo" width={130} />
+            <img className="" src={Logo} alt="Logo" width={130} height={200} />
               
             </NavLink>
           </div>
